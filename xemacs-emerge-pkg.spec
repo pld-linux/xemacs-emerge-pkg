@@ -2,12 +2,12 @@ Summary:	Another interface over GNU patch
 Summary(pl):	Jeszcze jeden interfejs do GNU patch
 Name:		xemacs-emerge-pkg
 %define 	srcname	emerge
-Version:	1.09
-Release:	2
+Version:	1.11
+Release:	1
 License:	GPL
 Group:		Applications/Editors/Emacs
 Source0:	ftp://ftp.xemacs.org/xemacs/packages/%{srcname}-%{version}-pkg.tar.gz
-# Source0-md5:	231c8120d60da2c9ddd856510da2491c
+# Source0-md5:	f47b98cdf120c123bee14ff9d1ff0862
 URL:		http://www.xemacs.org/
 BuildArch:	noarch
 Conflicts:	xemacs-sumo
