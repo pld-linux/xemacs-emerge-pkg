@@ -2,7 +2,7 @@ Summary:	Another interface over GNU patch
 Summary(pl):	Another interface over GNU patch
 Name:		xemacs-emerge-pkg
 %define 	srcname	emerge
-Version:	1.07
+Version:	1.08
 Release:	1
 License:	GPL
 Group:		Applications/Editors/Emacs
