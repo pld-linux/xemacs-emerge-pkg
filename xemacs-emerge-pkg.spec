@@ -1,5 +1,5 @@
 Summary:	Another interface over GNU patch
-Summary(pl.UTF-8):   Jeszcze jeden interfejs do GNU patch
+Summary(pl.UTF-8):	Jeszcze jeden interfejs do GNU patch
 Name:		xemacs-emerge-pkg
 %define 	srcname	emerge
 Version:	1.11
